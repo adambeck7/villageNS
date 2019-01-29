@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1054601568102",
+    "firebase_url": "https://village-messaging.firebaseio.com",
+    "project_id": "village-messaging",
+    "storage_bucket": "village-messaging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054601568102:android:459163bd31908909",
+        "android_client_info": {
+          "package_name": "org.nativescript.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054601568102-saeb1do3ipk0e08kbcd6qvpo6i9kps6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.nativescript.application",
+            "certificate_hash": "9b9c1e46054b08be386e0682a1e5ec7edc2265ae"
+          }
+        },
+        {
+          "client_id": "1054601568102-327lolu28iejnqi6p3bpfv5sukg1gq5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKGa06RAMtSQrjd6cimlt2F6fzm2pjZ00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054601568102-327lolu28iejnqi6p3bpfv5sukg1gq5q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1054601568102-b15e416pg3t60bbues0dr7ps0l04o3ib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.villageReact"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
